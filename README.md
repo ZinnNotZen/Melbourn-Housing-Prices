@@ -1,4 +1,4 @@
-## Melbourn-HousesHousing-Prices-in-Melbourne
+## Melbourn-Housing-Prices
 Housing Prices in Melbourne - Capstone for Masters Program
 # Project Overview
 This project analyzes factors influencing housing prices in Melbourne using regression techniques. The analysis explores variables such as the number of rooms, home type, region, number of bathrooms, parking spots, and building size to understand their impact on property values.
